@@ -7,5 +7,6 @@ class Anagram
   end
 
   def match(array)
-
+    some_word.split("") == some_word.split("")
+  end
 end
